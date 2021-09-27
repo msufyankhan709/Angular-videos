@@ -9,3 +9,7 @@
 <br>
 
 [How to create a new module.](https://youtu.be/KZtFAs_7EYE)
+
+<br>
+
+[How to create a new service](https://youtu.be/pDISWhAy6ik)
