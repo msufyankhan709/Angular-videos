@@ -13,3 +13,7 @@
 <br>
 
 [How to create a new service](https://youtu.be/pDISWhAy6ik)
+
+<br>
+
+[How to create a new user-defined component](https://youtu.be/MVNdsZ-159s)
