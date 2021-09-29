@@ -17,3 +17,7 @@
 <br>
 
 [How to create a new user-defined component](https://youtu.be/MVNdsZ-159s)
+
+<br>
+
+[Routing in Angular](https://youtu.be/QmLYB-Xf9_s)
